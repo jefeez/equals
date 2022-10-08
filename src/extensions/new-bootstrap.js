@@ -12,6 +12,8 @@ module.exports = (toolbox) => {
       '.editorconfig',
       './src/server.ts',
       './src/app.ts',
+      './src/core/Handling.ts',
+      './src/app/middlewares/catcher.ts',
       './src/app/modules/modules.ts',
     ]
 

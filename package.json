@@ -1,6 +1,6 @@
 {
   "name": "equals.ts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "equals CLI",
   "private": false,
   "bin": {
